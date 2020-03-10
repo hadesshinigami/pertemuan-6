@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195199571344",
+    "firebase_url": "https://daftar-login.firebaseio.com",
+    "project_id": "daftar-login",
+    "storage_bucket": "daftar-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195199571344:android:41d7492037cfb9c1958f15",
+        "android_client_info": {
+          "package_name": "com.example.daftarlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195199571344-min7e9g548jn4rgrnd9k9ii62kphohq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0_eQsKXflvQyuit3VeMafK6eYEfLX9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195199571344-min7e9g548jn4rgrnd9k9ii62kphohq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
